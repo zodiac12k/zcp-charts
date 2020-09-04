@@ -1,0 +1,3 @@
+[submodule "ingress-nginx"]
+	path = ingress-nginx
+	url = https://github.com/zodiac12k/ingress-nginx.git
